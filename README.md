@@ -4,18 +4,12 @@ I created this app as an exercise in how to develop with jQuery. It lets the use
 
 Built With:
 
-HTML
-
-CSS
-
-jQuery
+HTML, CSS, jQuery
 
 Key Features:
 
-This app allows you to...
+This app allows the user to 
 
-Add items to the list
-
-Rearrange the items in the list
-
-Delete items from the list
+1. add items to the list
+2. rearrange the items in the list
+3. delete items from the list
