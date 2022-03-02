@@ -1,6 +1,6 @@
 To do list app
 
-I created this app as an exercise in how to develop with jQuery. It lets you add, rearrange, and delete items in a to-do list.
+I created this app as an exercise in how to develop with jQuery. It lets the user add, rearrange, and delete items in a to-do list.
 
 Built With
 
